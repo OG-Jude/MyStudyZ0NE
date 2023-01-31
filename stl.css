@@ -1,0 +1,53 @@
+*{
+	margin:0%;
+	padding:0%;
+	font-family:monospace;
+	background-color:;
+	background-attachment:fixed;
+	color:#1f0d;
+	margin:2%;
+	}
+	
+	
+body{
+	background-image:url("bg.gif");
+	background-size:cover;
+	background-position:center;
+	position:relative;
+	text-align:center;
+	
+}
+h1{
+	border-bottom:2px solid purple;
+}
+.crd{
+	height:280px;
+	width:100%;
+	text-align:center;
+	background-image:url("cl.png");
+	position:relative;
+	background-size:fit;
+	display:inline-block;
+	background-color:red;
+	margin:1px;
+	
+	
+}
+
+m{
+ 	background-color:#1f0d;
+	width:100%;
+	display:inline-block;
+}
+
+ss{
+	color:purple;
+}
+oo{
+	color:red;
+}
+
+
+div{
+	text-align:center;
+}
