@@ -107,3 +107,40 @@ ul h2{
     padding-left: 4%;
     width: 100%;
 }
+
+
+.cuSpace{
+    margin-left: 30px;
+   display: none;
+    background-color:rgb(30, 25, 4);
+    border-radius: 12px;
+    padding: 16px 22px;
+    border: 1px solid rgb(255, 204, 0);
+
+}
+
+.ansEqm{
+    color: rgb(238, 69, 97);
+    background-color: #000000;
+    padding: 8px 20px;
+    letter-spacing: 2px;
+}
+
+.anstxt{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.clcCnt{
+    display: flex;
+    gap:12px;
+
+}
+
+.swEqm{
+    display: block;
+}
+.hdEqm{
+    display:none;
+}
