@@ -1,7 +1,7 @@
 body{
     background-color: rgb(0, 10, 20);
-    color: rgb(255, 204, 0)
-
+    color: rgb(255, 204, 0);
+    
 }
 
 nav{
@@ -108,7 +108,15 @@ ul h2{
     width: 100%;
 }
 
+::-webkit-input-placeholder{
+    color:rgb(155, 168, 18);
+}
 
+.cuSpace input{
+    color: rgb(255, 121, 215);
+     background-color: #000000;
+    
+}
 .cuSpace{
     margin-left: 30px;
    display: none;
