@@ -109,11 +109,12 @@ ul h2{
 }
 
 ::-webkit-input-placeholder{
-    color:rgb(155, 168, 18);
+    color:rgb(238, 69, 97);
+    padding: 16px 22px;
 }
 
 .cuSpace input{
-    color: rgb(255, 121, 215);
+    color: rgb(238, 69, 97);
      background-color: #000000;
     padding: 16px 22px;
     
